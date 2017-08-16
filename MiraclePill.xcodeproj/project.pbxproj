@@ -12,6 +12,7 @@
 		182A5A9E1F3DF3CD00ACDD6A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 182A5A9C1F3DF3CD00ACDD6A /* Main.storyboard */; };
 		182A5AA01F3DF3CD00ACDD6A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 182A5A9F1F3DF3CD00ACDD6A /* Assets.xcassets */; };
 		182A5AA31F3DF3CD00ACDD6A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 182A5AA11F3DF3CD00ACDD6A /* LaunchScreen.storyboard */; };
+		182A5AAB1F3DF5CA00ACDD6A /* buyNowBtn.png in Resources */ = {isa = PBXBuildFile; fileRef = 182A5AAA1F3DF5CA00ACDD6A /* buyNowBtn.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		182A5A9F1F3DF3CD00ACDD6A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		182A5AA21F3DF3CD00ACDD6A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		182A5AA41F3DF3CD00ACDD6A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		182A5AAA1F3DF5CA00ACDD6A /* buyNowBtn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buyNowBtn.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				182A5A9A1F3DF3CD00ACDD6A /* ViewController.swift */,
 				182A5A9C1F3DF3CD00ACDD6A /* Main.storyboard */,
 				182A5A9F1F3DF3CD00ACDD6A /* Assets.xcassets */,
+				182A5AAA1F3DF5CA00ACDD6A /* buyNowBtn.png */,
 				182A5AA11F3DF3CD00ACDD6A /* LaunchScreen.storyboard */,
 				182A5AA41F3DF3CD00ACDD6A /* Info.plist */,
 			);
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				182A5AAB1F3DF5CA00ACDD6A /* buyNowBtn.png in Resources */,
 				182A5AA31F3DF3CD00ACDD6A /* LaunchScreen.storyboard in Resources */,
 				182A5AA01F3DF3CD00ACDD6A /* Assets.xcassets in Resources */,
 				182A5A9E1F3DF3CD00ACDD6A /* Main.storyboard in Resources */,
